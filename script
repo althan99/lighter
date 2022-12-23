@@ -1,0 +1,5 @@
+gearid = "http://www.roblox.com/asset/?id=11898831479"
+ 
+game:GetObjects(gearid)[1].Parent = game.Players.althan99.Backpack
+
+--change althan99 to your roblox name
